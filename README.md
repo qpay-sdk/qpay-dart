@@ -1,5 +1,8 @@
 # QPay Dart SDK
 
+[![pub package](https://img.shields.io/pub/v/qpay.svg)](https://pub.dev/packages/qpay)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 A Dart/Flutter client library for the [QPay V2 API](https://merchant.qpay.mn) with automatic token management, strong typing, and comprehensive error handling.
 
 ## Features
