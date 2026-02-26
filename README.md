@@ -1,5 +1,6 @@
 # QPay Dart SDK
 
+[![CI](https://github.com/qpay-sdk/qpay-dart/actions/workflows/ci.yml/badge.svg)](https://github.com/qpay-sdk/qpay-dart/actions/workflows/ci.yml)
 [![pub package](https://img.shields.io/pub/v/qpay.svg)](https://pub.dev/packages/qpay)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
