@@ -1,6 +1,7 @@
 name: qpay
 description: QPay V2 API client SDK for Dart/Flutter with auto token management.
 version: 1.0.0
+repository: https://github.com/qpay-sdk/qpay-dart
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
